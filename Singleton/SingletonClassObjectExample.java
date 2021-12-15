@@ -4,7 +4,7 @@ class SingletonClassObjectExample{
 
     /*
     static instance
-    private constructor
+    private default constructor
     static Getter method
      */
     static SingletonClassObjectExample obj = new SingletonClassObjectExample();
